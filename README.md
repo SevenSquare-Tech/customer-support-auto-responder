@@ -9,6 +9,8 @@ This project demonstrates how modern AI technologies can transform traditional c
 
 ---
 
+[Here’s the Complete Guide to Build a Smart Customer Support Auto-Responder in NextJs.](https://www.sevensquaretech.com/smart-nextjs-customer-support-auto-responder-github-code/)
+
 ## ✨ Features
 
 - **💬 Chat Interface** – Clean and intuitive chat interface for seamless interaction with the AI chatbot.
